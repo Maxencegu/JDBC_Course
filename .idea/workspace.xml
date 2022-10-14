@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee850f2-6fa4-49db-b299-9734dcf2cb26" name="Changes" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="4ee850f2-6fa4-49db-b299-9734dcf2cb26" name="Changes" comment="Opérations de base SQl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/tennis/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/tennis/App.java" afterDir="false" />
     </list>
@@ -48,6 +47,7 @@
       <workItem from="1665004129561" duration="279000" />
       <workItem from="1665156214804" duration="382000" />
       <workItem from="1665334532387" duration="100000" />
+      <workItem from="1665740356433" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1665004357618</created>
@@ -56,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665004357618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Opérations de base SQl">
+      <created>1665740424986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665740424986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Opérations de base SQl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opérations de base SQl" />
   </component>
 </project>
